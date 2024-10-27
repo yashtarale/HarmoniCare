@@ -1,3 +1,4 @@
+![5](https://github.com/user-attachments/assets/0d43614a-eb82-4589-a61a-608fdafdf5fe)
 Overview
 HarminiCare connects seamlessly with Continuous Glucose Monitors (CGM) to empower individuals with diabetes, providing real-time glucose monitoring, tailored insulin recommendations, and continuous AI-driven support.
 
